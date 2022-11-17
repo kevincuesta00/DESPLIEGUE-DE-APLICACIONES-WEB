@@ -3,6 +3,7 @@
 ## DIARIO
 
 * [UD1](https://github.com/kevincuesta00/UD1-GitHub-y-MarkDown/blob/main/diario_UD1.md)
+* [UD2](https://github.com/kevincuesta00/UD1-GitHub-y-MarkDown/blob/main/diario_UD2.md)
 
 ## ENLACES
 
