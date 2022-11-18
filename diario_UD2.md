@@ -12,12 +12,14 @@ Hemos aprendido lo basico de las aplicaciones web a sido una introduccion muy ba
 
 * QUE NO ENTIENDO ? 
 
- La verdad que esta unidad a sido bastante facil no ha sido nada complicada lo mas dificil seria como estructurar el portafolios que no me ha quedado muy claro.
+ Lo entiendo todo bastante bien ya que es un resumen del ciclo medio y me ha parecido bastante intuitivo.
  
 * QUE ES LO QUE MAS Y MENOS ME GUSTA ?
 
- En esta unidad no podria decir que es y lo que menos me gusta ya que no ha tenido un nivel de complejidad muy alta por lo que no puedo acabar de hacer ninguna valoracion positiva ni  negativa.
+ Lo que mas me gusta de el temario es el ssh es un temario bastante entretenido ya que la conexion con otro ordenador es bastante entretenido.
+ 
+ Lo que menos podria decir que son los servidores apache me dan bastante pereza.
 
 * COSAS QUE ME HUBIERA GUSTADO APRENDER ? 
 
- Con ganas de saber que nos esperara la segunda unidad.
+ Con ganas de saber que nos esperara la tercera unidad.
