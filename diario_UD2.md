@@ -8,8 +8,6 @@ Entre diferentes grupos hemos echo una serie de presentaciones explicando el tem
 
 Hemos aprendido lo basico de las aplicaciones web a sido una introduccion muy basica.
 
-[Temario visto](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web)
-
 * QUE NO ENTIENDO ? 
 
  Lo entiendo todo bastante bien ya que es un resumen del ciclo medio y me ha parecido bastante intuitivo.
