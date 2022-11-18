@@ -7,7 +7,7 @@ Entre diferentes grupos hemos echo una serie de presentaciones explicando el tem
 * QUE HE APRENDIDO?
 
 Hemos aprendido lo basico de las aplicaciones web a sido una introduccion muy basica.
-[Temario visto]([https://github.com/kevincuesta00/UD1-GitHub-y-MarkDown/blob/main/diario_UD1.md](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web))
+[Temario visto] ([https://github.com/kevincuesta00/UD1-GitHub-y-MarkDown/blob/main/diario_UD1.md](https://javiergarciaescobedo.es/despliegue-de-aplicaciones-web/76-arquitecturas-web))
 
 * QUE NO ENTIENDO ? 
 
