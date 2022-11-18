@@ -12,7 +12,7 @@ Lo primero que tenemos que hacer es actualizar los paquetes locales de ubuntu.
 Una vez actualizada procedemos a instalar el servidor apache,
 
 >sudo apt install apache2
-## Configutat firewall
+## Configurar firewall
 
 Antes de probar Apache, es necesario modificar los ajustes de firewall para permitir el acceso externo a los puertos web predeterminados.
 
